@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troll Friends With 1000 Emails In C-Sharp", "Troll Friends With 1000 Emails In C-Sharp.csproj", "{6DFC32B0-0964-4855-AB10-B6748CA36E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFC32B0-0964-4855-AB10-B6748CA36E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFC32B0-0964-4855-AB10-B6748CA36E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFC32B0-0964-4855-AB10-B6748CA36E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFC32B0-0964-4855-AB10-B6748CA36E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B587A1F-F256-42D2-B214-2C5D4C85D337}
+	EndGlobalSection
+EndGlobal

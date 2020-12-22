@@ -1,0 +1,19 @@
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.exe
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.deps.json
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.runtimeconfig.json
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.runtimeconfig.dev.json
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.pdb
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.csprojAssemblyReference.cache
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.AssemblyInfoInputs.cache
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.AssemblyInfo.cs
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.pdb
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.genruntimeconfig.cache
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\us43060\OneDrive - Grant Thornton LLP\Documents\GitHub\Israel-Dryer\Troll Friends With 1000 Emails In C-Sharp\obj\Debug\netcoreapp3.1\Troll Friends With 1000 Emails In C-Sharp.csproj.CopyComplete
