@@ -37,8 +37,10 @@ namespace Troll_Friends_With_1000_Emails_In_C_Sharp
         public static void SendEmailMessage(string message, int running_count, string username, string password)
         {
             var mailMessage = new MimeMessage();
-            mailMessage.From.Add(new MailboxAddress("Israel", "israel.dryer@gmail.com"));
-            mailMessage.To.Add(new MailboxAddress("Israel", "israel.dryer@gmail.com"));
+            
+            // add the sender and recipient here....
+            mailMessage.From.Add(new MailboxAddress("SenderName", "Sender@gmail.com"));
+            mailMessage.To.Add(new MailboxAddress("RecipientName", "recipient@gmail.com"));
             mailMessage.Subject = $"Trolling you with a book: {running_count} of 1000!";
             mailMessage.Body = new TextPart("plain")
             {
